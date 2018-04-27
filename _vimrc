@@ -37,7 +37,9 @@ filetype off
 set rtp+=$VIM/vimfiles/bundle/vundle.vim/
 call vundle#rc('$VIM/vimfiles/bundle/')
 Plugin 'VundleVim/Vundle.vim'
-" Plugin 'vim-commentary.git'
 Plugin 'tpope/vim-commentary'
+Plugin 'kana/vim-textobj-entire'
+Plugin 'yianwillis/vimcdoc'
+Plugin 'vim-textobj-user'
 call vundle#end()
 filetype plugin indent on
