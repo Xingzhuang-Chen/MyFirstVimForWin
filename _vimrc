@@ -34,9 +34,10 @@ endfunction
 
 set nocompatible
 filetype off
-set rtp+=$VIM/vimfiles/bundle/vundle/
+set rtp+=$VIM/vimfiles/bundle/vundle.vim/
 call vundle#rc('$VIM/vimfiles/bundle/')
-Plugin 'gmarik/Vundle.vim'
+Plugin 'VundleVim/Vundle.vim'
+" Plugin 'vim-commentary.git'
+Plugin 'tpope/vim-commentary'
 call vundle#end()
 filetype plugin indent on
-
