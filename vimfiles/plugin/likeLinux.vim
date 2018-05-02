@@ -1,3 +1,4 @@
+set mouse=
 unmap <C-A>
 unmap <C-V>
 iunmap <C-V>
