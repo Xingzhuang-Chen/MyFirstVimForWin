@@ -43,3 +43,4 @@ Plugin 'yianwillis/vimcdoc'
 Plugin 'vim-textobj-user'
 call vundle#end()
 filetype plugin indent on
+" unmap <C-A>
