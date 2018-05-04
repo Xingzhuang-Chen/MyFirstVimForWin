@@ -13,3 +13,6 @@
 [submodule "vimfiles/bundle/vim-textobj-user"]
 	path = vimfiles/bundle/vim-textobj-user
 	url = https://github.com/kana/vim-textobj-user.git
+[submodule "vimfiles/bundle/vim-unimpaired"]
+	path = vimfiles/bundle/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git

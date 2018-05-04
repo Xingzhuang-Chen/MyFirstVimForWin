@@ -41,6 +41,7 @@ Plugin 'tpope/vim-commentary'
 Plugin 'kana/vim-textobj-entire'
 Plugin 'yianwillis/vimcdoc'
 Plugin 'vim-textobj-user'
+Plugin 'tpope/vim-unimpaired'
 call vundle#end()
 filetype plugin indent on
 " unmap <C-A>
