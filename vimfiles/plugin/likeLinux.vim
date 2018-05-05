@@ -7,3 +7,4 @@ iunmap <C-H>
 cunmap <C-H>
 iunmap <C-F>
 cunmap <C-F>
+nunmap <C-F>
