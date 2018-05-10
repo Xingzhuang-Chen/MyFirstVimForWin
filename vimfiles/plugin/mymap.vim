@@ -1,4 +1,6 @@
 inoremap jk <ESC>
+cnoremap jk <ESC>
+
 inoremap <Left> <Nop>
 inoremap <Right> <Nop>
 inoremap <Up> <Nop>
