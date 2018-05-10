@@ -1,5 +1,6 @@
 inoremap jk <ESC>
-cnoremap jk <ESC>
+" cnoremap jk <C-[>
+" noremap! jk <C-[>
 
 inoremap <Left> <Nop>
 inoremap <Right> <Nop>
