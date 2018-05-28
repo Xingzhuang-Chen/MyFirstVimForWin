@@ -7,3 +7,5 @@ set shiftwidth=4
 set expandtab
 set wildmode=longest,list
 colorscheme slate
+set guioptions=
+set hidden
